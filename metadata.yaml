@@ -1,0 +1,26 @@
+_repo: Behind-the-scenes-in-a-restaurant-A-study-of-1017-women-restaurant-employees_69451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: City, The Consumers' League of New York
+    gutenberg_agent_id: '55272'
+    url: http://www.gutenberg.org/2009/agents/55272
+description: ''
+gutenberg_issued: '2022-11-30'
+identifiers:
+  gutenberg: '69451'
+language: en
+pgterms:marc904: https://archive.org/details/behindscenesinre00cons/page/n1/mode/2up
+pgterms:marc905: 20200730145932consumersl
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: ellinora and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: The Consumers League of New York,1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Behind the scenes in a restaurant: A study of 1017 women restaurant employees'
+url: http://www.gutenberg.org/ebooks/69451
