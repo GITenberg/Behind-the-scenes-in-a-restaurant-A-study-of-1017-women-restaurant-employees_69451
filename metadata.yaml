@@ -1,11 +1,16 @@
 _repo: Behind-the-scenes-in-a-restaurant-A-study-of-1017-women-restaurant-employees_69451
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69451-h/images/cover.jpg
 creator:
   author:
     agent_name: City, The Consumers' League of New York
     gutenberg_agent_id: '55272'
     url: http://www.gutenberg.org/2009/agents/55272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69451#Behind-the-scenes-in-a-restaurant-A-study-of-1017-women-restaurant-employees
 gutenberg_issued: '2022-11-30'
 identifiers:
   gutenberg: '69451'
